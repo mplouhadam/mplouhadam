@@ -1,7 +1,6 @@
 ## Hello there, I'm Adam Sulistyo Nugroho <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 Currently working at manufacturing company
-- 🌱 Interested about Data Analytics and addicted to learn and grow every day
+- 🔭 Interested about Data Analytics and addicted to learn and grow every day
 - ⚡ Fun fact: I enjoy reading books in my free time
 
 
